@@ -2,7 +2,7 @@
 
 <p>This is a tax calculator in which you can get your overall income after tax deduction if it is applicable in your case.You can read instructions by hovering over the tooltip icon which is placed at the right end of every input element.</p>
 
-<h3>Some use cases are below</h3>
+<h3>Some use cases are below..</h3>
 
 <div> (1) Initial look of Tax Calculator </div><img src="taxCalculatorImages/initialview.png" alt="no image" width="300px">
 <div> (2) For not tax payable </div><img src="taxCalculatorImages/notTax.png" alt="no image" width="300px">
@@ -10,7 +10,7 @@
 <div> (4) If user leaves any input field blank </div><img src="taxCalculatorImages/blank.png" alt="no image" width="300px">
 <div> (5) If user fills any string in the input field </div><img src="taxCalculatorImages/string.png" alt="no image" width="300px">
 
-<h3>The tax calculation works based on this formula - </h3>
+<h3><u>The tax calculation works based on this formula  </u></h3>
 
 <ul>
 <li>Ex :- if Gross Annual Income + Extra Income - Deductions =  6 Lakhs, no tax</li>
