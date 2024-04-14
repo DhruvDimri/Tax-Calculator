@@ -4,7 +4,7 @@
 
 <h3>Some use cases are below</h3>
 
-<div> (1) Initial look of Tac Calculator </div><img src="taxCalulatorImages/initialview.png" alt="no image" width="300px">
+<div> (1) Initial look of Tac Calculator </div><img src="taxCalulatorImages/initialview.png " alt="no image" width="300px">
 <div> (2) For not tax payable </div><img src="taxCalculatorImages/notTax.png" alt="no image" width="300px">
 <div> (3) For tax payable  </div><img src="taxCalculatorImages/taxApply.png" alt="no image" width="300px">
 <div> (4) If user leaves any input field blank </div><img src="taxCalculatorImages/blank.png" alt="no image" width="300px">
