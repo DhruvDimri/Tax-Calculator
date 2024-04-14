@@ -6,4 +6,4 @@
 
  <h5> Some test cases are below:-</h5>
 
- <span>Initial look of Tax Caculator - </span><img src="taxCalculatorImages/blank.png" alt=""> 
+ <span>Initial look of Tax Caculator - </span><img src="taxCalculatorImages/initialview.png" alt="no image"> 
