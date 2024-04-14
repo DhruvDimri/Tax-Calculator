@@ -1,6 +1,6 @@
 <h1>Tax Calculator</h1>
 
-<p>This is a tax calculator in which you can get your overall income after tax deduction if it is applicable in your case by just doing some little steps by hovering on the tooltip icon which is at the right end of the input element. </p>
+<p>This is a tax calculator in which you can get your overall income after tax deduction if it is applicable in your case.You can read instructions by hovering over the tooltip icon which is placed at the right end of every input element.</p>
 
 <h3>Some use cases are below</h3>
 
