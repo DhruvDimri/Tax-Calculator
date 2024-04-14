@@ -1,4 +1,4 @@
-//       -------  Tooltip Code  -------
+//                       -------  Tooltip Code  -------
 
 const tooltipTriggerList = document.querySelectorAll(
   '[data-bs-toggle="tooltip"]'
@@ -10,7 +10,7 @@ const tooltipList = [...tooltipTriggerList].map(
 let button = document.querySelector(".button");
 let display = document.querySelector(".display");
 
-//       -------  Main function Code  -------
+//                       -------  Main function Code  -------
 
 function hello() {
   let gross = parseFloat(document.querySelector(".annualInp").value);
