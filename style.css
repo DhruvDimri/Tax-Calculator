@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    width: 90%;
+    border-radius: 5px;
+    padding-left: 10px;
+    /* border: none; */
+   border-color: grey;
+    outline: none;
+    
+}
+.container{
+    max-width: 512px;
+}
+form{
+    width: 100%;
+}
+.grossTooltip{
+    color: red !important;
+    display: none;
+}
+.extraTooltip{
+    color: red !important;
+    display: none;
+}
+.ageTooltip{
+    color: red !important;
+    display: none;
+}
+.deductionTooltip{
+    color: red !important;
+    display: none;
+}
