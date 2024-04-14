@@ -6,5 +6,5 @@
 
  <h5> Some test cases are below:-</h5>
 
- <span><div>Initial look of Tax Caculator -</div> <img src="taxCalculatorImages/initialview.png" alt="no image" width="300px"><span/>
- <span><div>Initial look of Tax Caculator -</div> <img src="taxCalculatorImages/notTax.png" alt="no image" width="300px"><span/>
+ <div width="500px">Initial look of Tax Caculator -</div> <img src="taxCalculatorImages/initialview.png" alt="no image" width="300px">
+ <div>Not Tax Payable Caculator -</div> <img src="taxCalculatorImages/notTax.png" alt="no image" width="300px">
