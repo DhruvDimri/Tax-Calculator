@@ -1,9 +1,9 @@
- <h3>This is a Tax Calculator.</h3>
+ <h1>This is a Tax Calculator.</h1>
 
 
  <p>You can get your overall income after tax deduction by following some little steps which is mentioned there in tooltip which is at right end of the input element </p>
 
 
- <h5> Some test cases are below:-</h5>
+ <h3> Some test cases are below:-</h3>
 
- <span>Initial look of Tax Caculator - </span><img src="taxCalculatorImages/initialview.png" alt="no image" width="400px"> 
+ 
