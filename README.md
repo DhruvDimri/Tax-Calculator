@@ -9,3 +9,16 @@
 <div> (3) For tax payable  </div><img src="taxCalculatorImages/taxApply.png" alt="no image" width="300px">
 <div> (4) If user leaves any input field blank </div><img src="taxCalculatorImages/blank.png" alt="no image" width="300px">
 <div> (5) If user fills any string in the input field </div><img src="taxCalculatorImages/string.png" alt="no image" width="300px">
+
+<h3>The tax calculation works based on this formula - </h3>
+
+<ul>
+<li>Ex :- if Gross Annual Income + Extra Income - Deductions =  6 Lakhs, no tax</li>
+<li>Overall income (after deductions) under 8 (≤) Lakhs is not taxed. </li>
+<li>Income over 8 (>) Lakhs, the amount over 8 Lakhs is taxed at</li>
+<ul>
+<li>30% for people with age < 40</li>
+<li>40% for people with age ≥ 40 but < 60</li>
+<li>10% for people with age ≥ 60</li>
+</ul>
+</ul>
