@@ -59,7 +59,7 @@ function hello() {
 
   if (!error) {
     if (netIncome <= 800000) {
-      display.innerText = "not tax payable";
+      display.innerText = "Not tax payable";
     } else if (netIncome > 800000) {
       if (age == 1) {
         tax = 0.3 * (netIncome - 800000);
